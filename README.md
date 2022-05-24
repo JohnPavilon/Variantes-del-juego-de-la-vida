@@ -85,6 +85,14 @@ Con lo anterior realizado, usted verá que se iniciará el programa abriendo una
   <img src="https://media1.giphy.com/media/20FmaY7kCvFdsEIJLK/giphy.gif" alt="animated" />
 </p>
 
+<p align="center">
+  4. Variante 4/2 (generador de patrones de alfombras)
+</p>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/cYDrKzO5wuqPN9IsOI/giphy.gif" alt="animated" />
+</p>
+
 # 4. Información del contenido
 
 A continuación se mostrará la lista de elementos contenidos en Variantes-del-juego-de-la-vida/ junto a una somera descripción de los mismos:
