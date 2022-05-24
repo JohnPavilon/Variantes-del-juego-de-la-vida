@@ -120,3 +120,5 @@ Variantes-del-juego-de-la-vida/
 3. ink_stain.py: Simula las reglas 235678/3678 (mancha de tinta que se seca rápidamente)
 4. train_and_ships.py: Variante 245/368 (muerte, locomotoras y naves)
 5. life_34.py: Ejecuta la variante 34/34 (Vida 34)
+6. carpet_market.py: Simula la variante 4/2 (generador de patrones de alfombras)
+7. long_life.py: Variante 51/346 «Larga vida» (casi todo son osciladores)
