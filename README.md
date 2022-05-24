@@ -58,3 +58,20 @@ Con lo anterior realizado, usted verá que se iniciará el programa abriendo una
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75518367/155264886-3f42fb4e-8b6f-4c92-84b2-9c9d4822f9e5.gif" alt="animated" />
 </p>
+
+# 3. Listas de variantes
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/oRqIYS6wbtxZU0sEeZ/giphy.gif" alt="animated" />
+</p>
+
+# 4. Información del contenido
+
+A continuación se mostrará la lista de elementos contenidos en Variantes-del-juego-de-la-vida/ junto a una somera descripción de los mismos:
+
+Variantes-del-juego-de-la-vida/
+
+1. README.md: Es el archivo que está leyendo en este momento
+2. game-of-life.py: Ejecuta una simulación del juego de la vida con las reglas 23/3 (una célula nace si tiene 3 vecinas y vive siempre que haya 2 o 3 vecinas)
+3. ink_stain.py: Simula las reglas 235678/3678 (mancha de tinta que se seca rápidamente)
+4. train_and_ships-py: Variante 245/368 (muerte, locomotoras y naves)
