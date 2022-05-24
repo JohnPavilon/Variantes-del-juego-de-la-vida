@@ -82,7 +82,7 @@ Con lo anterior realizado, usted verá que se iniciará el programa abriendo una
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/20FmaY7kCvFdsEIJLK/giphy.gif" alt="animated" />
+  <img src="https://media4.giphy.com/media/5B9qu3eYq7yjxbhR2Z/giphy.gif" alt="animated" />
 </p>
 
 <p align="center">
@@ -90,7 +90,23 @@ Con lo anterior realizado, usted verá que se iniciará el programa abriendo una
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/cYDrKzO5wuqPN9IsOI/giphy.gif" alt="animated" />
+  <img src="https://media1.giphy.com/media/GTF3QT58hdgUpRsRXB/giphy.gif" alt="animated" />
+</p>
+
+<p align="center">
+  5. Variante 51/346 «Larga vida» (casi todo son osciladores)
+</p>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/KCjitoVv3dDZxQlpCt/giphy.gif" alt="animated" />
+</p>
+
+<p align="center">
+  6. Extra: Variante 34/1256....
+</p>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/20FmaY7kCvFdsEIJLK/giphy.gif" alt="animated" />
 </p>
 
 # 4. Información del contenido
