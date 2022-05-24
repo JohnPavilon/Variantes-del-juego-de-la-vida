@@ -82,7 +82,7 @@ Con lo anterior realizado, usted verá que se iniciará el programa abriendo una
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/Li9jxz9jf0IETwbt6N/giphy.gif" alt="animated" />
+  <img src="https://media1.giphy.com/media/20FmaY7kCvFdsEIJLK/giphy.gif" alt="animated" />
 </p>
 
 # 4. Información del contenido
