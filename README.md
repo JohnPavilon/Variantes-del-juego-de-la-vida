@@ -77,6 +77,14 @@ Con lo anterior realizado, usted verá que se iniciará el programa abriendo una
   <img src="https://media2.giphy.com/media/oRqIYS6wbtxZU0sEeZ/giphy.gif" alt="animated" />
 </p>
 
+<p align="center">
+  3. Variante 34/34 (crece) «Vida 34»
+</p>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/Li9jxz9jf0IETwbt6N/giphy.gif" alt="animated" />
+</p>
+
 # 4. Información del contenido
 
 A continuación se mostrará la lista de elementos contenidos en Variantes-del-juego-de-la-vida/ junto a una somera descripción de los mismos:
@@ -86,4 +94,5 @@ Variantes-del-juego-de-la-vida/
 1. README.md: Es el archivo que está leyendo en este momento
 2. game-of-life.py: Ejecuta una simulación del juego de la vida con las reglas 23/3 (una célula nace si tiene 3 vecinas y vive siempre que haya 2 o 3 vecinas)
 3. ink_stain.py: Simula las reglas 235678/3678 (mancha de tinta que se seca rápidamente)
-4. train_and_ships-py: Variante 245/368 (muerte, locomotoras y naves)
+4. train_and_ships.py: Variante 245/368 (muerte, locomotoras y naves)
+5. life_34.py: Ejecuta la variante 34/34 (Vida 34)
