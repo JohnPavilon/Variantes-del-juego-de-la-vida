@@ -62,6 +62,18 @@ Con lo anterior realizado, usted verá que se iniciará el programa abriendo una
 # 3. Listas de variantes
 
 <p align="center">
+  1. Variante 235678/3678 (Mancha de Tinta)
+</p>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/ja6K5Dzx6ygaDWXtHD/giphy.gif" alt="animated" />
+</p>
+
+<p align="center">
+  2. Variante 245/368 (muerte, locomotoras y naves)
+</p>
+
+<p align="center">
   <img src="https://media2.giphy.com/media/oRqIYS6wbtxZU0sEeZ/giphy.gif" alt="animated" />
 </p>
 
